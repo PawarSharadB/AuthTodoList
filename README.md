@@ -14,9 +14,8 @@ This is a simple Todo application built using React Native and Expo.
   ```
 ## Running the App
 Start the Expo development server:
-```
 npm start
-```
+
 This will open a new browser window with the Expo DevTools.
 
 Use the Expo Go app on your mobile device to scan the QR code displayed in the DevTools or in the terminal.
